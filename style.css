@@ -1,0 +1,27 @@
+ h1 {
+    color : rgb(0,225,225);
+ }
+
+ body {
+   background-color :#08384b;
+ }
+
+ pre {
+    color :rgb(34, 205, 65);
+ }
+
+ select {
+    color :blueviolet;
+ }
+
+ input {
+    color : red;
+ }
+
+ label {
+    color :rgb(247, 243, 5);
+ }
+
+ footer {
+    color :rgb(247, 243, 5);
+ }
